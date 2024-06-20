@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ADMIN | DASHBOARD is displayed]]>
+    </line>
+    <line>
+      <![CDATA[ADMIN | UPDATE THE ABOUT US CONTENT URL is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Updated data is displayed in home page ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-20T06:49:44Z" name="Default suite" finished-at="2024-06-20T06:49:53Z" duration-ms="8805">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T06:49:44Z" name="Default test" finished-at="2024-06-20T06:49:53Z" duration-ms="8805">
+      <class name="com.providence.hms.AdminTest.AboutUsTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.providence.hms.AdminTest.AboutUsTest@60f00693]" started-at="2024-06-20T06:49:44Z" name="configBS" finished-at="2024-06-20T06:49:44Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.providence.hms.AdminTest.AboutUsTest@60f00693]" started-at="2024-06-20T06:49:44Z" name="configBC" finished-at="2024-06-20T06:49:46Z" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.providence.hms.AdminTest.AboutUsTest@60f00693]" started-at="2024-06-20T06:49:46Z" name="configBM" finished-at="2024-06-20T06:49:48Z" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="verifyUpdateAboutUs()[pri:0, instance:com.providence.hms.AdminTest.AboutUsTest@60f00693]" started-at="2024-06-20T06:49:48Z" name="verifyUpdateAboutUs" finished-at="2024-06-20T06:49:52Z" duration-ms="3955" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ADMIN | DASHBOARD is displayed]]>
+            </line>
+            <line>
+              <![CDATA[ADMIN | UPDATE THE ABOUT US CONTENT URL is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Updated data is displayed in home page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUpdateAboutUs -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.providence.hms.AdminTest.AboutUsTest@60f00693]" started-at="2024-06-20T06:49:52Z" name="configAM" finished-at="2024-06-20T06:49:52Z" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.providence.hms.AdminTest.AboutUsTest@60f00693]" started-at="2024-06-20T06:49:52Z" name="configAC" finished-at="2024-06-20T06:49:53Z" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.providence.hms.AdminTest.AboutUsTest@60f00693]" started-at="2024-06-20T06:49:53Z" name="configAS" finished-at="2024-06-20T06:49:53Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.providence.hms.AdminTest.AboutUsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
